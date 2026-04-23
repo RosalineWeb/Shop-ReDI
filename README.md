@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 AllMart — E-commerce Frontend Application
 
 A modern, responsive e-commerce storefront built with React, showcasing real-world frontend architecture with global state management using Redux Toolkit, dynamic filtering, and an interactive shopping cart experience.
@@ -171,3 +172,6 @@ https://dummyjson.com/products
 
 Sergej Hofmann
 Frontend Developer
+=======
+# Shop-ReDI
+>>>>>>> e74c183bc2304a3ae0a374b304318af7999b8b76
