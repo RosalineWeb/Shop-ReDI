@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/grocery-shop-preview.png" width="900"/>
-</p>
+<img src="assets/preview.png" width="900" alt="Grocery Shop Preview"/></p>
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/online-grocery-store-landing-page-design_23-2150090411.jpg?w=2000" width="700" alt="Grocery Shop Banner"/>
 </p>
