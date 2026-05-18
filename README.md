@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rosaline-rastegar/grocery-shop/main/assets/preview.png" width="700" alt="Grocery Shop Banner"/>
+</p>
+
 ## Preview
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/online-grocery-store-landing-page-design_23-2150090411.jpg?w=2000" width="700" alt="Grocery Shop Banner"/>
