@@ -1,13 +1,4 @@
-<p align="center">
-  <p align="center">
-  <img src="PASTE-LINK-HERE" width="700"/>
-</p>
-  <img src="https://raw.githubusercontent.com/rosaline-rastegar/grocery-shop/main/assets/preview.png" width="700" alt="Grocery Shop Banner"/>
-  <div class="bg-gradient-to-r from-pink-100 to-purple-100 rounded-2xl p-1 md:p-2 mb-6 text-center"><h2 class="text-2xl md:text-3xl font-bold text-pink-700 mb-3">Fresh Picks</h2><p class="text-pink-700 font-semibold max-w-xl mx-auto">Smart deals, clean design. Browse fast, find what fits, and add it to your cart in seconds.</p></div>
-  <p align="center">
-  <img src="PASTE-LINK-HERE" width="700"/>
-</p>
-</p>
+
 
 ## Preview
 <p align="center">
