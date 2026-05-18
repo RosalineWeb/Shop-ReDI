@@ -2,8 +2,7 @@
 
 
 <p align="center">
-
-  <img src="assets/grocery-shop-preview.png"/>
+<img src="assets/preview.png" width="900" alt="Grocery Shop Preview"/>
 </p>
 # 🛒 Rosaline Web — E-commerce Frontend
 
