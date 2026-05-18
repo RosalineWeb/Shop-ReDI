@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="assets/preview.png" width="900" alt="Grocery Shop Preview"/>
+https://github.com/USERNAME/REPO/blob/main/assets/preview.png
 </p>
 # 🛒 Rosaline Web — E-commerce Frontend
 
